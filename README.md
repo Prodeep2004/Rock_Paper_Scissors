@@ -80,15 +80,6 @@ If you have **VS Code**:
 | **CSS**        | Styling and layout           |
 | **JavaScript** | Game logic and interactivity |
 
----
-
-## 🖼️ Screenshots
-
-You can add screenshots like this:
-
-```
-![Game Screenshot](R P S Images/screenshot.png)
-```
 
 ---
 
